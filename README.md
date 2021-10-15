@@ -20,7 +20,6 @@
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/52064857/137252716-ae31ce5d-b03e-40a1-a2ea-216e12b5b925.gif)
 
 
-#プレイ後感想
-
+#プレイ後設問
 
 https://docs.google.com/forms/d/1hIT0Rto3QbVQsdOvdnDRosqOHErUPLowRuQzJBTJ-rE/edit?usp=drive_web
