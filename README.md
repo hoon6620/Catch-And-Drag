@@ -1,6 +1,6 @@
-<h1># Catch-And-Drag
+<h1># Catch-And-Drag</h1>
 
-<h1>#インストール方法(How To Install)
+<h1>#インストール方法(How To Install)</h1>
 
 注意 : 本ゲームはカメラが繋がっているWindows10のお環境においてプレイすることができます
 
@@ -10,7 +10,7 @@
 
 
 
-<h1>#プレイ方法(How To Play)
+<h1>#プレイ方法(How To Play)</h1>
 
 単語を手で掴み、真ん中の下線に置くことで選択できます
 
@@ -22,7 +22,7 @@
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/52064857/137252716-ae31ce5d-b03e-40a1-a2ea-216e12b5b925.gif)
 
 
-<h1>#プレイ後設問
+<h1>#プレイ後設問</h1>
 
 プレイ後設問にご協力お願いいたします。
 
