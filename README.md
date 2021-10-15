@@ -5,6 +5,8 @@
 注意 : 本ゲームはカメラが繋がっているWindows10のお環境においてプレイすることができます
 
   <a href="https://github.com/hoon6620/Catch-And-Drag/archive/refs/heads/main.zip">Download</a>
+  
+  上記のDownloadをクリックすることで本ゲームの.zipファイルをダウンロードできます。
 
 
 
