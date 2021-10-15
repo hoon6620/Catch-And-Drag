@@ -22,4 +22,6 @@
 
 #プレイ後設問
 
+プレイ後設問にご協力お願いいたします。
+
 https://docs.google.com/forms/d/1hIT0Rto3QbVQsdOvdnDRosqOHErUPLowRuQzJBTJ-rE/edit?usp=drive_web
