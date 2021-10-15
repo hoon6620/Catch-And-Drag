@@ -6,10 +6,15 @@
 
   <a href="https://github.com/hoon6620/Catch-And-Drag/archive/refs/heads/main.zip">Download</a>
   
-  上記のDownloadをクリックすることで本ゲームの.zipファイルをダウンロードできます。
+上記のDownloadをクリックすることで本ゲームの.zipファイルをダウンロードできます。
 
+ダウンロードフォルダーにダウンロードされたCatch-And-Drag-main(.zip)ファイルを右クリックし、展開をクリックします。
 
+展開する場所(デスクトップなど)を選択し、展開をクリックします。
 
+展開されたフォルダーに入るとCatch&Drag(.exe)を確認できます。
+
+Catch＆Dragを実行するとゲームをプレイすることができます。
 
 
 <h1>#プレイ方法(How To Play)</h1>
