@@ -2,7 +2,7 @@
 
 #インストール方法(How To Install)
 
-注意 : Windows10だけプレイすることができます
+注意 : 本ゲームはカメラが繋がっているWindows10のお環境においてプレイすることができます
 
   <a href="https://github.com/hoon6620/Catch-And-Drag/archive/refs/heads/main.zip">Download</a>
 
