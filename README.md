@@ -1,5 +1,7 @@
 <h1># Catch-And-Drag</h1>
 
+GoogleのMediapipeモーション認識を使ったAR学習ゲームです。
+
 <h1>#インストール方法(How To Install)</h1>
 
 注意 : 本ゲームはカメラが繋がっているWindows10のお環境においてプレイすることができます
