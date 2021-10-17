@@ -2,6 +2,10 @@
 
 GoogleのMediapipeモーション認識を使ったAR学習ゲームです。
 
+
+
+
+
 <h1>#インストール方法(How To Install)</h1>
 
 注意 : 本ゲームはカメラが繋がっているWindows10のお環境においてプレイすることができます
@@ -17,6 +21,10 @@ GoogleのMediapipeモーション認識を使ったAR学習ゲームです。
 4．展開されたフォルダーからCatch&Drag(.exe)を実行し、プレイ
 
 
+
+
+
+
 <h1>#プレイ方法(How To Play)</h1>
 
 単語を手で掴み、真ん中の下線に置くことで選択できます
@@ -27,6 +35,10 @@ GoogleのMediapipeモーション認識を使ったAR学習ゲームです。
 
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/52064857/137252716-ae31ce5d-b03e-40a1-a2ea-216e12b5b925.gif)
+
+
+
+
 
 
 <h1>#プレイ後意見フォーム</h1>
