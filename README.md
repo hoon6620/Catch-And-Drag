@@ -27,8 +27,8 @@
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/52064857/137252716-ae31ce5d-b03e-40a1-a2ea-216e12b5b925.gif)
 
 
-<h1>#プレイ後設問</h1>
+<h1>#プレイ後意見フォーム</h1>
 
-プレイ後設問にご協力お願いいたします。
+プレイ後意見フォームへのご協力お願いいたします。
 
 https://docs.google.com/forms/d/1hIT0Rto3QbVQsdOvdnDRosqOHErUPLowRuQzJBTJ-rE/edit?usp=drive_web
