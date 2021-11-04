@@ -33,13 +33,12 @@ GoogleのMediapipeモーション認識を使ったAR学習ゲームです。
 
 単語を手で掴み、真ん中の下線に置くことで選択できます
 
-
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/52064857/137252710-328b5fd1-af8c-4e3c-b104-c0106b983c04.gif)
-
-
-
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/52064857/137252716-ae31ce5d-b03e-40a1-a2ea-216e12b5b925.gif)
-
+<h2>#数学</h2>
+  <h3>#符号</h3>
+  <h3>#数字</h3>
+<h2>#英語</h2>
+  <h3>#単語</h3>
+  <h3>#文章</h3>
 
 
 
