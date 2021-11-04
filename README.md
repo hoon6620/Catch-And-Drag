@@ -22,7 +22,7 @@ GoogleのMediapipeモーション認識を使ったAR学習ゲームです。
 
 4．展開されたフォルダーからCatch&Drag(.exe)を実行し、プレイ!
 
-![image](https://user-images.githubusercontent.com/52064857/139294525-8721184d-1a9e-4db7-8fea-44be15756499.png)
+![image](https://user-images.githubusercontent.com/52064857/140291754-21e77d48-b94b-45f1-8dbb-e4e251959a84.png)
 
 
 
