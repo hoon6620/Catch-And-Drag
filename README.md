@@ -8,7 +8,9 @@ GoogleのMediapipeモーション認識を使ったAR学習ゲームです。
 
 <h1>#インストール方法(How To Install)</h1>
 
-<p style = "color:rgb(255,0,0)">注意 : 本ゲームはカメラが繋がっているWindows10の環境においてプレイすることができます</p>
+<p style = "color:rgb(255,0,0)">注意 : 本ゲームはカメラが繋がっているWindows10の環境においてプレイすることができます.
+  
+  また、逆光がある場合認識が悪くなることがあります。</p>
 
   <a href="https://github.com/hoon6620/Catch-And-Drag/archive/refs/heads/main.zip">Download</a>
   
