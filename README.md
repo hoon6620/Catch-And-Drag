@@ -34,7 +34,8 @@ GoogleのMediapipeモーション認識を使ったAR学習ゲームです。
 
 最初はStart、Exitの選択肢からStartを選択し、ゲームを始めます。
 
-  ![main](https://user-images.githubusercontent.com/52064857/140636235-0c31d19b-8135-40ef-ae78-cb4d8bafe34b.gif)
+![main](https://user-images.githubusercontent.com/52064857/140636419-f3be94c5-f934-4584-8f73-b7ca51492766.gif)
+
 
 <h2>#数学</h2>
 
@@ -48,7 +49,8 @@ GoogleのMediapipeモーション認識を使ったAR学習ゲームです。
   <h3>#数字</h3>
     下線「＿」に入れたら式が成り立つ数字を選択します。
     
-  ![num](https://user-images.githubusercontent.com/52064857/140636248-e3504699-e541-4bfb-8f77-def4d8e3686c.gif)
+    ![num](https://user-images.githubusercontent.com/52064857/140636452-1f4e39aa-b3f8-4426-a80c-bcd2478a001a.gif)
+
 
   
 <h2>#英語</h2>
