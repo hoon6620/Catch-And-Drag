@@ -66,9 +66,7 @@ GoogleのMediapipeモーション認識を使ったAR学習ゲームです。
     下線「＿」に音声の英単語になるようにアルファベットを選択します
     
 
-![spelling](https://user-images.githubusercontent.com/52064857/140636275-466b342b-4548-47b0-9979-d366584097d0.gif)
-
-
+![spelling](https://user-images.githubusercontent.com/52064857/140636565-095e705c-d42b-40a3-b57e-0bcf87e261fd.gif)
 
     
   <h3>#文章</h3>
