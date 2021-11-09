@@ -34,18 +34,46 @@ GoogleのMediapipeモーション認識を使ったAR学習ゲームです。
 
 最初はStart、Exitの選択肢からStartを選択し、ゲームを始めます。
 
+![main](https://user-images.githubusercontent.com/52064857/140636419-f3be94c5-f934-4584-8f73-b7ca51492766.gif)
+
+
+
+✌で前の画面に戻ったり、一時停止画面に移動することができます。
+
+
+![pause](https://user-images.githubusercontent.com/52064857/140636504-e25633f5-867d-4a02-9163-a78761a05416.gif)
+
+
 <h2>#数学</h2>
+
   <h3>#符号</h3>
     下線「＿」を基準に右と左の式の値を比較し、＞、＜、＝を選択します。
+
+
+  ![sign](https://user-images.githubusercontent.com/52064857/140636253-40006464-0bfc-40e0-87a9-7642209d377a.gif)
+
+
   <h3>#数字</h3>
     下線「＿」に入れたら式が成り立つ数字を選択します。
-  
+    
+    
+  ![num](https://user-images.githubusercontent.com/52064857/140636460-49992cfb-b9fb-407a-830d-846f022319ac.gif)
+
+
   
 <h2>#英語</h2>
   <h3>#単語</h3>
     下線「＿」に音声の英単語になるようにアルファベットを選択します
+    
+
+![spelling](https://user-images.githubusercontent.com/52064857/140636565-095e705c-d42b-40a3-b57e-0bcf87e261fd.gif)
+
+    
   <h3>#文章</h3>
     下線「＿」に音声の英文章になるように英単語を配置します
+    
+    
+![sentence](https://user-images.githubusercontent.com/52064857/140636359-77a48295-2bb7-45bb-bc06-ec83d3151881.gif)
 
 
 
