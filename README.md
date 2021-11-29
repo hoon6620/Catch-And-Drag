@@ -32,6 +32,8 @@ GoogleのMediapipeモーション認識を使ったAR学習ゲームです。
 
 単語や数字を手で掴み、真ん中の下線に置くことで選択できます
 
+注意：手のひらがカメラを向くようにしてください
+
 最初はStart、Exitの選択肢からStartを選択し、ゲームを始めます。
 
 ![main](https://user-images.githubusercontent.com/52064857/140636419-f3be94c5-f934-4584-8f73-b7ca51492766.gif)
