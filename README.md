@@ -45,7 +45,7 @@ GoogleのMediapipeモーション認識を使ったAR学習ゲームです。
 ![pause](https://user-images.githubusercontent.com/52064857/140636504-e25633f5-867d-4a02-9163-a78761a05416.gif)
 
 
-<h2>#数学</h2>
+<h2>#大小関係</h2>
 
   <h3>#符号</h3>
     下線「＿」を基準に右と左の式の値を比較し、＞、＜、＝を選択します。
@@ -54,7 +54,7 @@ GoogleのMediapipeモーション認識を使ったAR学習ゲームです。
   ![sign](https://user-images.githubusercontent.com/52064857/140636253-40006464-0bfc-40e0-87a9-7642209d377a.gif)
 
 
-  <h3>#数字</h3>
+  <h3>#方程式</h3>
     下線「＿」に入れたら式が成り立つ数字を選択します。
     
     
